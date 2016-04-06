@@ -1,0 +1,9 @@
+Les différentes sources de ce projet font partie d'une application permettant de simuler un changement de place au sein d'un groupe.
+Le changement de place considéré prend en compte un ensemble de critères pour pouvoir être considéré comme valide. Une fois le changement de place effectué, chaque individu doit:
+- avoir des voisins de gauche et de droite différents.
+- changer de ligne.
+- changer de colonne.
+
+Ce programme peut être utilisé pour effectuer un changement de place au sein d'une classe ou d'un groupe de travail notamment.
+
+Les sources du projet seront progressivement modifiées, dans les prochaines semaines, afin de compléter l'application et d'obtenir un fonctionnement optimal.
